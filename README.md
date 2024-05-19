@@ -1,6 +1,6 @@
 # Technical case Fairly made
 
-
+Exploring the idea of using an ML model to predict the environmental impact of clothes during product design.
 
 ## Instructions
 
@@ -17,7 +17,7 @@
    ```
    pip install -r requirements.txt
    ```
-5. Add the csv file to the data folder
+5. Add the csv file containing the data to the data folder
 6. Run the notebooks
    ```
    jupyter notebook
