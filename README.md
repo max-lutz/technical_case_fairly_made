@@ -2,6 +2,20 @@
 
 Exploring the idea of using an ML model to predict the environmental impact of clothes during product design.
 
+In this repo we performed:
+- exploratory data analysis
+  - column types, unique values
+  - missing data, duplicated data
+  - distribution of label data
+  - impact per category (country, product type, material, nb_components)
+- model training for climate change values (kg CO2)
+  - Prepare the data
+  - Select model metric
+  - Train baseline models (10 basic models selected)
+  - Select best model
+  - Analyse predictions
+
+
 ## Instructions
 
 1. Clone the repo
